@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1528811942 source:f:\程序相关\文件管理系统\fms\disk.cpp
+	"Disk.h"
+
+1528815843 f:\程序相关\文件管理系统\fms\inode.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	"Disk.h"
+
+1528808824 f:\程序相关\文件管理系统\fms\disk.h
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1528380306 f:\程序相关\文件管理系统\fms\inode.cpp
+	"Inode.h"
+
+1528904991 source:f:\程序相关\文件管理系统\fms\filemanagementsystem.cpp
+	"FileManagementSystem.h"
+
+1528805374 f:\程序相关\文件管理系统\fms\filemanagementsystem.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"Disk.h"
+	"Inode.h"
+
+1528381413 f:\程序相关\文件管理系统\fms\disk.cpp
+	"Disk.h"
+
+1528904805 source:f:\程序相关\文件管理系统\fms\inode.cpp
+	"Inode.h"
+
+1528381975 source:f:\程序相关\文件管理系统\fms\main.cpp
+	"FileManagementSystem.h"
+
+1528381617 f:\程序相关\文件管理系统\fms\filemanagementsystem.cpp
+	"FileManagementSystem.h"
+
